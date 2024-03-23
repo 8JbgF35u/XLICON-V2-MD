@@ -66,7 +66,7 @@ global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD'
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./Xlicon.jpg')
+global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
 global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
