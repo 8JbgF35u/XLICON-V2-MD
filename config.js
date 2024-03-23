@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
+  ['2349059080129', '🅿️LAYFULM3️⃣☄️🌬️', true], 
+  ['233208179431', 'Abraham Dwamena', false],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233531910067', 'Abraham Dwamena3', true],
+  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', false],
+  ['233533763772', 'Abraham Dwamena2', false],
+  ['233531910067', 'Abraham Dwamena3', false],
   
 ] //Number of owners
 
@@ -66,7 +66,7 @@ global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD'
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/b4eeea4e4e3949cd77325.jpg')
 
 
 global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
